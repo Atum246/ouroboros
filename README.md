@@ -7,11 +7,11 @@
 
 > *"Like Remotion.dev, but for Python. Lighter, faster, more powerful."*
 
-### 🎬 Watch the Trailer
+### 🎬 See it in action
 
-[![Ouroboros Trailer](https://img.shields.io/badge/▶_Watch_Trailer-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atum246/ouroboros/blob/main/examples/trailer.mp4)
+![Ouroboros Showcase](examples/showcase.gif)
 
-*52-second showcase of everything Ouroboros can do — effects, particles, animations, and more.*
+*Animated showcase — effects, particles, shapes, presets, all generated with Ouroboros itself* 🐍
 
 ---
 
