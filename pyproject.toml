@@ -39,9 +39,9 @@ dev = ["pytest>=7.0.0", "pytest-cov>=4.0.0"]
 ouroboros = "ouroboros.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/john/ouroboros"
-Documentation = "https://github.com/john/ouroboros#readme"
-Repository = "https://github.com/john/ouroboros"
+Homepage = "https://github.com/Atum246/ouroboros"
+Documentation = "https://github.com/Atum246/ouroboros#readme"
+Repository = "https://github.com/Atum246/ouroboros"
 
 [tool.setuptools.packages.find]
 include = ["ouroboros*"]
