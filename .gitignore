@@ -7,9 +7,6 @@ dist/
 build/
 .venv/
 venv/
-*.gif
-*.webm
-*.mov
 .pytest_cache/
 .tox/
 .coverage
